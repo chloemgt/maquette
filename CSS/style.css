@@ -9,11 +9,14 @@ html,body {
 
 .box1{
     background-color: cadetblue;
-    border: 5px solid black
+    border: 5px solid black;
+    text-align: justify;
+    
 }
 
-#photo{
+#imgbox2{
     background-image: url("CSS/img/daria-shevtsova-7mbvu0biZgg-unsplash.jpg");
+    height: auto;
 }
 
 h1{
@@ -22,5 +25,27 @@ h1{
 }
 .box3{
     background-color: rgba(194, 69, 69, 0.712);
-    border: 5px solid black
+    border: 5px solid black;
+    text-align: justify;
+}
+
+.imgbox4{
+    background-image: url("/CSS/image/IMG_3284.jpg");
+    height: 200%;
+    background-image: url("/image/IMG_3285.JPG");
+    height: 200%;
+    background-image: url("/image/IMG_3287.JPG");
+    height: 200%;
+
+
+}
+
+h2{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box5{
+    background-color: papayawhip;
+    border: 5px solid black;
+    text-align: justify;
 }
