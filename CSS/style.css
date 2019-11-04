@@ -1,0 +1,26 @@
+/*Haut de page*/
+
+html,body {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.box1{
+    background-color: cadetblue;
+    border: 5px solid black
+}
+
+#photo{
+    background-image: url("CSS/img/daria-shevtsova-7mbvu0biZgg-unsplash.jpg");
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.box3{
+    background-color: rgba(194, 69, 69, 0.712);
+    border: 5px solid black
+}
